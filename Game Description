@@ -1,0 +1,6 @@
+How To Play: 
+-This game is a simple zombie shooter game where you can select one of two characters to fight zombies with
+-Game is totally implemented using HTML CSS and JavaScript
+-Once you select a characters zombies would spawn and start coming to your direction in waves
+-Your goal is to survive every wave by killing all zombies
+-Every wave you survive increases the strength and number of zombies of the next wave
